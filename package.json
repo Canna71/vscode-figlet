@@ -3,6 +3,10 @@
     "displayName": "figlet",
     "description": "Create nice ASCII art text",
     "version": "0.0.1",
+    "repository":{
+        "type": "git",
+        "url": "https://github.com/Canna71/vscode-figlet"
+    },
     "publisher": "canna",
     "engines": {
         "vscode": "^1.8.0"
